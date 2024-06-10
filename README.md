@@ -1,3 +1,3 @@
-# Revoke.cash Brand Assets
+# Revoke Brand Assets
 
-This repository contains the Revoke.cash brand assets. The logos are available in SVG and PNG format.
+This repository contains the Revoke brand assets. The logos are available in SVG and PNG format.
